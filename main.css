@@ -1,0 +1,31 @@
+.block{
+    display: block;
+    padding: 10px 10px;
+}
+
+.block2{
+    display: block;
+    padding: 10px 10px;
+    
+}
+.block3{
+    display: block;
+    padding: 7px 7px;
+}
+
+input[type=submit]{
+    text-align: center;
+    width: 90%;
+    margin: 7px 7px 15px 7px;
+    background-color: rgb(242, 242, 242);
+    border-radius: 5px 5px;
+    border: solid rgb(209, 209, 209) 1px;
+}
+
+.form{
+    text-align: center;
+    border: 2px solid black;
+    margin: 25% 40% 25% 40%;
+    border-radius: 12px;
+    font-family: 'Cabin', Arial, sans-serif;
+}
